@@ -1,2 +1,2 @@
 # hello-world
-1st repository, beginner programmer
+Hello friends, i like html, css and i will some lenguages, i also like tacos.
