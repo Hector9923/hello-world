@@ -1,2 +1,4 @@
 # hello-world
-Hello friends, i like html, css and i will learn some lenguages, i also like tacos.
+Hello friends, 
+I like HTML, CSS and I'll learn some lenguages like JS and React, 
+I also like tacos Video Games
